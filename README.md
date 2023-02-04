@@ -1,23 +1,8 @@
-About this data :
+## The Aim Of The Project     
+The Aim of this Project is analysing the sales data and identifying weak areas and opportunities for SuperStore to boost business growth  
+The Project has been divided into several sections , with each having it's own analytics , conclusions and recommendations using Python and Tableau Dashboard
+## About the dataset. 
+E-commerce platform allows people to buy products from books, toys, clothes, and shoes to food, furniture, and other household items.
+-This is a simple data set of US superstore from 2014-2017. 
 
-Let us understand the attributes of this data set:
-'Row ID' - This is nothing but Serial No.  
-'Order ID' - ID created when a product order is placed. 
-'Order Date' - Date on which a customer places his/her order. 
-'Ship Date' - Date on which the order is shipped. 
-'Ship Mode' - Mode of shipment of each order. 
-'Customer ID' - ID assigned to each customer who places an order. 
-'Customer Name' - Name of Customer. 
-'Segment' - Section from where the order is placed. 
-'Country' - Country details of this data set. We are looking only for US store data. 
-'City' - Cities of US are listed here. 'State' - States of US are listed here. 
-'Postal Code' - pin code  
-'Region' - grouped into region wise 
-'Product ID' - Product ID of each product 
-'Category' - Category to which each product belongs to. 
-'Sub-Category' - Sub-Category of each Category 
-'Product Name' - Name of products. 
-'Sales' - Selling Price of each product. 
-'Quantity' - number of quantity available for a particular product. 
-'Discount' - Discount available on each product. 
-'Profit' - Profit gained on each product.
+
