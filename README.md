@@ -5,7 +5,7 @@ The Project has been divided into several sections , with each having it's own a
 E-commerce platform allows people to buy products from books, toys, clothes, and shoes to food, furniture, and other household items.  
 ## Dasboard. 
 You can see my dashboard throgh my Tableau Puplic link   
-https://public.tableau.com/shared/WQXSTFTQ5?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Book1_16741686613460/SummaryDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
 
